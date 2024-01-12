@@ -1,0 +1,34 @@
+_repo: The-life-of-John-Worth-Kern_72468
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bowers, Claude G. (Claude Gernade)
+    alias: Bowers, Claude Gernade
+    birthdate: 1878
+    deathdate: 1958
+    gutenberg_agent_id: '56598'
+    url: http://www.gutenberg.org/2009/agents/56598
+    wikipedia: https://en.wikipedia.org/wiki/Claude_G._Bowers
+description: ''
+gutenberg_issued: '2023-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72468'
+  lccn: '18023550'
+language: en
+pgterms:marc905: 20220813080012bowers
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aIndianapolis :$bThe Hollenbeck Press, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Politicians -- United States -- Biography'
+- !lcsh 'Kern, John Worth, 1849-1917'
+- !lcc 'E660'
+- GITenberg
+title: The life of John Worth Kern
+url: http://www.gutenberg.org/ebooks/72468
